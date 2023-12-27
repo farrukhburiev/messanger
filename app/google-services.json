@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1093484168120",
+    "project_id": "messenger-d4f5d",
+    "storage_bucket": "messenger-d4f5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093484168120:android:b2563865009dcce74b854d",
+        "android_client_info": {
+          "package_name": "farrukh.messanger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFcTd0GQOqGRHVsZov3LSk1tnQuVb69AM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
